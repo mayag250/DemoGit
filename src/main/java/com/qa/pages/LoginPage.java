@@ -1,4 +1,4 @@
-package com.qa.util;
+package com.qa.pages;
 
 public class LoginPage {
 	public void  loginpage() {
