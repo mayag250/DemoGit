@@ -5,5 +5,8 @@ public class TestBase {
 		System.out.println("test method");
 		System.out.println("making changes");
 	}
+	public void Test2() {
+		System.out.println("added on branch");
+	}
 
 }
